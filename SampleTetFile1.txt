@@ -1,2 +1,3 @@
 GIT revert Commit 1
 This is Sample File 1
+This is Stash lecture, Change in Main File
